@@ -1,0 +1,42 @@
+.body_content{
+  background: linear-gradient(rgba(26,26,26,0.4), rgba(26,26,26,0.4)), url(../img/678.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+  background-position: center center;
+  height: 100%;
+}
+.collection-header{
+  background: none;
+}
+html {
+  /* font-family: GillSans, Calibri, Trebuchet, sans-serif; */
+}
+.form_badge{
+  padding: 5px;
+  border-radius: 3px;
+  position: absolute;
+}
+.form_badge2{
+  position: absolute;
+  right: 0;
+  
+}
+.dash_badge{
+  padding: 5px;
+  border-radius: 3px;
+  width: 40%;
+  margin: auto;
+  border: 1px solid #ff6d00;
+}
+#applicant_table{
+  display: block;
+}
+.approve_deny_btn{
+  margin: 20px;
+}
+.table_links{
+  text-decoration: underline;
+}
+.table_links:hover{
+  color: orange;
+}
